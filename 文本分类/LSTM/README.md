@@ -448,10 +448,14 @@ print("Predicting finished.")
 
 ### 9. 完整代码
 [文本分类（LSTM+PyTorch）](https://github.com/Bat-Reality/PyTorch_exp/tree/main/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/LSTM)
+
 [数据集下载链接](https://www.kaggle.com/competitions/ml2020spring-hw4/data)
 
 ### 参考文献
 [LSTM文本分类实战](https://maimai.cn/article/detail?fid=252357321&efid=ht0LWs1-WErzQBIzCWJwMA)
+
 [LSTM算法实现文本分类（PyTorch）](https://www.modb.pro/db/410499)
+
 [Pytorch实战__LSTM做文本分类](https://blog.csdn.net/hello_JeremyWang/article/details/121071281)
+
 [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus)
