@@ -1,7 +1,5 @@
 本项目配套讲解博客：[文本分类（LSTM+PyTorch）](https://blog.csdn.net/Bat_Reality/article/details/128509050?spm=1001.2014.3001.5502)
 
-本文的配套代码已上传至github，链接在文末，同时附带中文数据集。
-
 ### 一、传统方法的基本步骤
 1. 预处理：首先进行分词，然后是除去停用词；
 2. 将文本表示成向量，常用的就是文本表示向量空间模型；
@@ -453,7 +451,7 @@ print("Predicting finished.")
 [数据集下载链接](https://www.kaggle.com/competitions/ml2020spring-hw4/data)
 
 ### 参考文献
-> [LSTM文本分类实战](https://maimai.cn/article/detail?fid=252357321&efid=ht0LWs1-WErzQBIzCWJwMA)
-> [LSTM算法实现文本分类（PyTorch）](https://www.modb.pro/db/410499)
-> [Pytorch实战__LSTM做文本分类](https://blog.csdn.net/hello_JeremyWang/article/details/121071281)
-> [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus)
+[LSTM文本分类实战](https://maimai.cn/article/detail?fid=252357321&efid=ht0LWs1-WErzQBIzCWJwMA)
+[LSTM算法实现文本分类（PyTorch）](https://www.modb.pro/db/410499)
+[Pytorch实战__LSTM做文本分类](https://blog.csdn.net/hello_JeremyWang/article/details/121071281)
+[ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus)
